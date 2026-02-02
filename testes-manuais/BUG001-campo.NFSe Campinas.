@@ -1,0 +1,9 @@
+Caso de Teste: Validação de Campo Obrigatório
+Objetivo: Verificar se o sistema impede a recuperação de senha sem o preenchimento do CNPJ.
+• Pré-condição: Estar na tela de "Recuperar Senha" do portal NFSe Campinas.
+• Passo a passo:
+1. Acessar a funcionalidade de redefinição de senha.
+2. Deixar o campo "CNPJ" vazio.
+3. Clicar no botão "ENVIAR SENHA".
+• Resultado Esperado: O sistema deve exibir uma mensagem de alerta e não processar a requisição.
+• Resultado Obtido: Sucesso. O sistema exibiu a mensagem "Campo obrigatório!" em vermelho.
