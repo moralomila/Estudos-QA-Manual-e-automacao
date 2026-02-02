@@ -1,2 +1,2 @@
 # Relatórios de Testes Manuais
-Aqui registro evidências de bugs encontrados em sites reais.
+Aqui registro evidências de testes manuais em sites reais.
